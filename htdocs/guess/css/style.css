@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tammudu+2&display=swap");
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Baloo Tammudu 2", cursive;
+  color: red;
+  font-size: 22px;
+  text-align: center;
+  background-color: #222;
+}
+
+.main-wrap {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #ffa500;
+  border-radius: 5px;
+}
+
+.main-wrap h1 {
+  text-align: center;
+  color: #222;
+  font-size: 22px;
+}
+
+.main-wrap p {
+  font-size: 16px;
+  color: #222;
+}
+
+.main-wrap form {
+  width: 100%;
+}
+
+.main-wrap input[type=text] {
+  color: #222;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Baloo Tammudu 2", cursive;
+}
+
+.main-wrap input[type=submit] {
+  color: #222;
+  width: 32.5%;
+  height: 40px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Baloo Tammudu 2", cursive;
+  font-size: 18px;
+}
+
+.main-wrap .buttons {
+  text-align: center;
+}
+
+.main-wrap .result-wrap {
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
